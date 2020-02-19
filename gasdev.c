@@ -7,7 +7,7 @@
  Description : This is a random number generator with Gausssian Distribution (Normal)
 				with zero mean and unit variance
 
- ============================================================================
+ ============================================================================*/
 
 
 #include<stdio.h>
