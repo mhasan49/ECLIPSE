@@ -5,7 +5,7 @@
  Version     :
  Copyright   : Your copyright notice
  Description : This is a random number generator with Gausssian Distribution (Normal)
-				with zero mean and unit variance
+				with zero mean and unit variance /////
 
  ============================================================================*/
 
